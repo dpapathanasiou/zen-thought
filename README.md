@@ -36,7 +36,7 @@ Because of you, I am here
 Thank you very much
 ```
 
-Optionally, add these lines to your ~/.bashrc file, so that the aphorism appears automatically every time you start a terminal session:
+Optionally, add these lines to your <tt>~/.bashrc</tt> file (Mac OSX users edit <tt>~/.bash_profile</tt> instead), so that the aphorism appears automatically every time you start a terminal session:
 
 ```sh
 if [ -x /usr/local/bin/zen-thought ]; then
