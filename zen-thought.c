@@ -14,7 +14,7 @@
 
 #define MAX_SAYINGS 31
 #define MAX_LENGTH 1024
-#define SAYINGS_FILE "/usr/share/games/zen-thought/jotaiga-aphorisms.txt"
+#define SAYINGS_FILE "/usr/local/share/games/zen-thought/jotaiga-aphorisms.txt"
 
 int get_mday_today () {
   /* Return tm_mday, which is the current

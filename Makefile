@@ -10,7 +10,7 @@ DATA    = $(shell echo *.txt)
 
 PREFIX  = $(DESTDIR)/usr/local
 BINDIR  = $(PREFIX)/bin
-DATADIR = /usr/share/games/zen-thought
+DATADIR = /usr/local/share/games/zen-thought
 
 all: $(TARGET)
 
